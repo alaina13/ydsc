@@ -110,7 +110,7 @@ Loaded on the front page */
 .front-page-1 .widget-area {
 	/*display: table-cell;*/
 	vertical-align: middle;
-	width: 50%;
+	width: 66%;
 	background-color: rgba(19,41,61,.5);
 	margin: auto;
 }
