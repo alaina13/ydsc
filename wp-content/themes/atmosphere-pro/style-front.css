@@ -86,7 +86,7 @@ Loaded on the front page */
 	padding: 80px;
 	table-layout: fixed;
 	text-align: center;
-	width: 100%;	
+	width: 100%;
 }
 
 .front-page-1 a {
@@ -108,9 +108,11 @@ Loaded on the front page */
 }
 
 .front-page-1 .widget-area {
-	display: table-cell;
+	/*display: table-cell;*/
 	vertical-align: middle;
-	width: 100%;
+	width: 50%;
+	background-color: rgba(19,41,61,.5);
+	margin: auto;
 }
 
 .front-page-1,
