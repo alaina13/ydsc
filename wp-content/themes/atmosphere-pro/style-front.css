@@ -83,7 +83,7 @@ Loaded on the front page */
 	background-color: #34313b;
 	display: table;
 	overflow: hidden;
-	padding: 160px;
+	padding: 80px;
 	table-layout: fixed;
 	text-align: center;
 	width: 100%;
@@ -113,6 +113,7 @@ Loaded on the front page */
 	width: 66%;
 	background-color: rgba(19,41,61,.5);
 	margin: auto;
+	margin-top: 160px;
 }
 
 .front-page-1,

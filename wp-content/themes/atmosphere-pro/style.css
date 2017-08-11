@@ -1182,6 +1182,7 @@ a[rel~="attachment"]:hover,
 .title-area {
 	float: left;
 	margin-top: 8px;
+	padding: 5px 0px;
 }
 
 .site-title {
@@ -1214,7 +1215,7 @@ a[rel~="attachment"]:hover,
 }
 
 .header-image .site-title > a {
-	background-position: center center !important;
+	/*background-position: center center !important;*/
 	background-size: contain !important;
 	float: left;
 	min-height: 70px;
